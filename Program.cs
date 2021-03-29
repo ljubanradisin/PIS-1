@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Ovo je nova linija koda!");//promjena
+            Console.WriteLine("Ovo je nova linija koda");//promjena
 
         }
     }
